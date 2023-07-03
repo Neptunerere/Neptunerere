@@ -52,7 +52,7 @@
 ---
 <br/>
 
-<p align="center" dir="auto">
+<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neptunerere&theme=buefy" stlye="max-width:100%">
     <table width="100%">
         <tr>
