@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Neptunerere! 🔱</h2>
+<h2 align="center">Hi, I'm Neptune! 🔱</h2>
 
 <p align="center">
   <div align="center">I'm moving forward with the goal of creating programs through programming that make people happy joyful,</div>
