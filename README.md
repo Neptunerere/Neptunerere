@@ -17,6 +17,9 @@
         <img src="https://img.shields.io/badge/PHP-000000?&logo=PHP&logoColor=777BB4">
     </a>
     <a href="https://github.com/Neptunerere">
+        <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=Java&logoColor=white">
+    </a>
+    <a href="https://github.com/Neptunerere">
         <img src="https://img.shields.io/badge/GO-000000?&logo=go&logoColor=00ADD8">
     </a>
     <a href="https://github.com/Neptunerere">
