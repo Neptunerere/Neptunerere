@@ -20,9 +20,6 @@
         <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=Java&logoColor=white">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/GO-000000?&logo=go&logoColor=00ADD8">
-    </a>
-    <a href="https://github.com/Neptunerere">
         <img src="https://img.shields.io/badge/JAVASCRIPT-000000?&logo=javascript&logoColor=F7DF1E">
     </a>
     <a href="https://github.com/Neptunerere">
@@ -52,6 +49,18 @@
     </a>
     <a href="https://github.com/Neptunerere">
         <img src="https://img.shields.io/badge/DOCKER-000000?&logo=docker&logoColor=2496ED">
+    </a>
+</p>
+
+<h3>
+  Technologies & Frameworks of Interest  
+</h3>
+<p>
+    <a href="https://github.com/Neptunerere">
+        <img src="https://img.shields.io/badge/Vue-000000?&logo=Vue.js&logoColor=777BB4">
+    </a>
+    <a href="https://github.com/Neptunerere">
+        <img src="https://img.shields.io/badge/GO-000000?&logo=go&logoColor=00ADD8">
     </a>
 </p>
 
