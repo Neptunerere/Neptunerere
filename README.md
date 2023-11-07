@@ -7,7 +7,7 @@
   <div align="center">If you are interested, please feel free to contact me. Thank you! 😎</div>
 </p>
 <p align="center">
-  <img src="https://github.com/Neptunerere/steam-web/assets/134625031/d0e59478-1051-4633-980b-535243dce185" width="300"/>
+  <img src="https://github.com/Neptunerere/docker-laravel-app/assets/134625031/76912e9d-862a-4034-88ca-37dcc42a1d33" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neptunerere&show_icons=true&locale=en&layout=compact" alt="Neptunerere" />
 </p>
 <h3>
