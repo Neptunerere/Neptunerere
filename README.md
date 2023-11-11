@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Neptune! 🔱</h2
+<h2 align="">Hi, I'm Neptune! 🔱</h2
 <p dir="auto">
     <a href="https://discord.gg/6dtKKE4e" rel="nofollow"><img src="https://img.shields.io/badge/@hyeonmun-5865F2?logo=discord&amp;logoColor=white" alt="Discord" data-canonical-src="https://img.shields.io/badge/@hyeonmun-5865F2?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="mailto:neomunjeong@gmail.com"><img src="https://img.shields.io/badge/neomunjeong@gmail.com-D14836?logo=gmail&amp;logoColor=white" alt="Gmail" data-canonical-src="https://img.shields.io/badge/neomunjeong@gmail.com-D14836?logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
