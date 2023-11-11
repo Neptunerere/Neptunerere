@@ -6,12 +6,12 @@
   <a href="https://open.spotify.com/playlist/5bmq8c8piKs0AmYM8Tqc7v?si=de15b71923374b7f" rel="nofollow"><img src="https://camo.githubusercontent.com/35cbdda1977024e9aad0c845992c20d35fbd71e55b2d20bcd552d198d8c84bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966795f506c61796c6973742d3165643736303f6c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="Spotify" data-canonical-src="https://img.shields.io/badge/Spotify_Playlist-1ed760?logo=spotify&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<p align="center">
-  <div align="center">I'm moving forward with the goal of creating programs through programming that make people happy joyful,</div>
-  <div align="center">and improve their lives!!</div>
-  <div align="center">If you are interested, please feel free to contact me. Thank you! 😎</div>
+<p align="">
+  <div align="">I'm moving forward with the goal of creating programs through programming that make people happy joyful,</div>
+  <div align="">and improve their lives!!</div>
+  <div align="">If you are interested, please feel free to contact me. Thank you! 😎</div>
 </p>
-<p align="center">
+<p align="">
   
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134625031/280926836-76912e9d-862a-4034-88ca-37dcc42a1d33.gif" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neptunerere&show_icons=true&locale=en&layout=compact" alt="Neptunerere" />
