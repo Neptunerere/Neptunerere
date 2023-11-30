@@ -20,7 +20,7 @@
 </h3>
 <p>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/PHP-000000?&logo=PHP&logoColor=777BB4">
+        <img src="https://img.shields.io/badge/PHP-311C87?style=flat-square&logo=php&logoColor=white">
     </a>
     <a href="https://github.com/Neptunerere">
         <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=Java&logoColor=white">
