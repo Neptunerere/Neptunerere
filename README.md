@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/PHP-311C87?style=flat-square&logo=php&logoColor=white">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/GO-000000?style=flat-square&logo=Go&logoColor=white">
     </a>
     <a href="https://github.com/Neptunerere">
         <img src="https://img.shields.io/badge/JAVASCRIPT-000000?&logo=javascript&logoColor=F7DF1E">
