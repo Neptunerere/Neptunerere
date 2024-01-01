@@ -1,9 +1,7 @@
 
 <h2 align="">Hi, I'm Neptune! 🔱</h2
 <p dir="auto">
-    <a href="https://discord.gg/6dtKKE4e" rel="nofollow"><img src="https://img.shields.io/badge/@hyeonmun-5865F2?logo=discord&amp;logoColor=white" alt="Discord" data-canonical-src="https://img.shields.io/badge/@hyeonmun-5865F2?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="mailto:neomunjeong@gmail.com"><img src="https://img.shields.io/badge/neomunjeong@gmail.com-D14836?logo=gmail&amp;logoColor=white" alt="Gmail" data-canonical-src="https://img.shields.io/badge/neomunjeong@gmail.com-D14836?logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://open.spotify.com/playlist/3d9pstzk5Zn0jkqQYRiuXO?si=de15b71923374b7f" rel="nofollow"><img src="https://camo.githubusercontent.com/35cbdda1977024e9aad0c845992c20d35fbd71e55b2d20bcd552d198d8c84bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966795f506c61796c6973742d3165643736303f6c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="Spotify" data-canonical-src="https://img.shields.io/badge/Spotify_Playlist-1ed760?logo=spotify&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <p align="">
