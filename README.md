@@ -21,13 +21,13 @@
         <img src="https://img.shields.io/badge/PHP-311C87?style=flat-square&logo=php&logoColor=white">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/GO-000000?style=flat-square&logo=Go&logoColor=white">
+        <img src="https://img.shields.io/badge/GO-00316B?style=flat-square&logo=Go&logoColor=00ADD8">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/JAVASCRIPT-000000?&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/JAVASCRIPT-FDB22A?style=flat-square&logo=javascript&logoColor=F7DF1E">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/MYSQL-000000?&logo=mysql&logoColor=4479A1">
+        <img src="https://img.shields.io/badge/MYSQL-205181?flat-square&logo=mysql&logoColor=4479A1">
     </a>
 </p>
 
@@ -37,10 +37,13 @@
 
 <p>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/LARAVEL-000000?&logo=laravel&logoColor=FF2D20">
+        <img src="https://img.shields.io/badge/LARAVEL-990000?&logo=laravel&logoColor=FF2D20">
     </a>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/DOCKER-000000?&logo=docker&logoColor=2496ED">
+      <img src="https://img.shields.io/badge/CodeIgniter-CD201F?&logo=CodeIgniter&logoColor=FF2D20">
+    </a>
+    <a href="https://github.com/Neptunerere">
+        <img src="https://img.shields.io/badge/DOCKER-0077B5?&logo=docker&logoColor=2496ED">
     </a>
 </p>
 
@@ -49,6 +52,6 @@
 </h3>
 <p>
     <a href="https://github.com/Neptunerere">
-        <img src="https://img.shields.io/badge/GO-000000?&logo=go&logoColor=00ADD8">
+        <img src="https://img.shields.io/badge/GO-00316B?&logo=go&logoColor=00ADD8">
     </a>
 </p>
